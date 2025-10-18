@@ -16,6 +16,6 @@ Between 1804 and 1806 signal stations were established in a continuous line from
 
 Why the history lesson? 
 
-The title of this document is Communication Channels. I can establish through primary sources that we had digital, semaphore-based communications from Donegal to Dublin from c. 1804, a Wide Area Network (WAN)! 
+The title of this document is Legacy Communication. I can establish through primary sources that we had digital, semaphore-based communications from Donegal to Dublin from c. 1804, a Wide Area Network (WAN)! 
 
-_Although the content of these notes are (c) John ORaw, I do not hold copyright to the image above._
+_Although the content of these notes are (c) John ORaw, I have request permission to use, but I do not hold copyright to the image above._
