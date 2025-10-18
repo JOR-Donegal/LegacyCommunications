@@ -1,0 +1,16 @@
+# Topology
+
+The connection from the customer to the network would need to run to the nearest telephone exchange and for that reason, 
+has traditionally been called the last mile. 
+To this day and regardless of the technology being used, we still call the final connection to the customer the local loop or last mile connection.
+
+<figure>
+<img src = "https://jor-donegal.github.io/LegacyCommunications/images/topology.jpg">
+<figcaption>Fig 1. Fig 2. Last Mile.</figcaption>
+</figure>
+
+The carrier needs a clear point of demarcation where their network ends and the customers network starts. 
+This also demarks who is responsible to fix things, and where. 
+A carrier or an Internet Service Provider (ISP) will install Customer Premises Equipment (CPE) as an active endpoint which they can test to. 
+When we began designing WANs, the only available network was the TDM based telephony network. 
+For technical reasons, this network was designed around 64 kbps channels and our original WAN technologies were the same.
